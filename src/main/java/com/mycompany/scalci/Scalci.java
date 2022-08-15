@@ -10,6 +10,11 @@ public class Scalci{
 
     public static void main(String[] args) {
        new Calculator().setVisible(true);
+       
+       Double a = Math.sin(32);
+        System.out.println(a);
+       
+       
     }
 
 }
